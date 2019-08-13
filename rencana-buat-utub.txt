@@ -3,7 +3,9 @@
 - kuliner
 
 - jadi boss
-TUTORIAL
-JAVASCRIPT
-react
-vie
+
+BUAT TUTORIAL
+PHP
+-ci
+-laravel
+
