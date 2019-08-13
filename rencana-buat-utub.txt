@@ -1,0 +1,3 @@
+- buat tutorial php mysqli
+- buat vlog
+- kuliner
