@@ -3,3 +3,7 @@
 - kuliner
 
 - jadi boss
+
+BUAT TUTORIAL
+-ci
+-laravel
